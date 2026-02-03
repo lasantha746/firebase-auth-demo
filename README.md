@@ -128,7 +128,7 @@ src/
 This project is explained step by step on my YouTube channel.
 
 📺 **Code With Lasa**
-👉 Full tutorial video link: []
+👉 Full tutorial video link: **[https://youtu.be/p4P2o9uKgAU](https://youtu.be/p4P2o9uKgAU)**
 
 > Note: This repository focuses on Firebase Authentication logic.
 > React UI basics are not covered in detail.
