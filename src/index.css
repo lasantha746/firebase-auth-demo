@@ -1,0 +1,104 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Page background */
+body {
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Auth card */
+.auth-container {
+  background: #ffffff;
+  width: 350px;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
+  text-align: center;
+}
+
+/* Titles */
+.auth-container h2,
+.auth-container h1 {
+  margin-bottom: 15px;
+  color: #333;
+}
+
+/* Inputs */
+.auth-container input {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+}
+
+.auth-container input:focus {
+  outline: none;
+  border-color: #667eea;
+}
+
+/* Buttons */
+.auth-container button {
+  width: 100%;
+  padding: 12px;
+  margin-top: 12px;
+  border: none;
+  border-radius: 8px;
+  background: #667eea;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.auth-container button:hover {
+  background: #5563d6;
+}
+
+/* Google button */
+.google-btn {
+  background: #db4437;
+}
+
+.google-btn:hover {
+  background: #c33d2f;
+}
+
+/* Divider */
+.divider {
+  margin: 15px 0;
+  color: #aaa;
+}
+
+/* Links */
+.auth-container p {
+  margin-top: 15px;
+  font-size: 14px;
+}
+
+.auth-container a {
+  color: #667eea;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.auth-container a:hover {
+  text-decoration: underline;
+}
+
+/* Home email */
+.user-email {
+  margin: 10px 0 20px;
+  color: #555;
+}
