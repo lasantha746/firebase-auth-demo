@@ -1,4 +1,3 @@
-````md
 # 🔐 Firebase Authentication with React (Email & Google Login)
 
 This project demonstrates how to implement **Firebase Authentication** in a **React application** using:
@@ -153,14 +152,3 @@ This project is open source and free to use for learning and personal projects.
 ```
 
 ---
-
-## 🔥 NEXT (OPTIONAL UPGRADES)
-If you want, I can also make:
-- GitHub **About section text**
-- **Repository description (160 chars)**
-- **Pinned comment for YouTube**
-- **Commit message format**
-- **README badges (stars, license, tech stack)**
-
-Just say **“next”** 🚀
-```
