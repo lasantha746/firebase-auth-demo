@@ -37,7 +37,7 @@ No backend code required. Everything is handled securely by Firebase.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/firebase-auth-demo.git
+git clone https://github.com/lasantha746/firebase-auth-demo.git
 cd firebase-auth-demo
 ````
 
@@ -128,7 +128,7 @@ src/
 This project is explained step by step on my YouTube channel.
 
 📺 **Code With Lasa**
-👉 Full tutorial video link in the description
+👉 Full tutorial video link: []
 
 > Note: This repository focuses on Firebase Authentication logic.
 > React UI basics are not covered in detail.
@@ -150,5 +150,3 @@ If this project helped you:
 This project is open source and free to use for learning and personal projects.
 
 ```
-
----

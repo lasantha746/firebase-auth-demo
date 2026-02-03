@@ -2,13 +2,13 @@ import { initializeApp } from "firebase/app";
 import { getAuth, GoogleAuthProvider } from "firebase/auth";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDuVwlLUkRnnDz4-_OzijKrtEnObhdkpI8",
-    authDomain: "logingtest-fb563.firebaseapp.com",
-    projectId: "logingtest-fb563",
-    storageBucket: "logingtest-fb563.firebasestorage.app",
-    messagingSenderId: "674777967697",
-    appId: "1:674777967697:web:a2fa2d55712edbc0fc5c70",
-    measurementId: "G-D4XY83LRRV"
+    apiKey: "YOUR_API_KEY",
+    authDomain: "YOUR_AUTH_DOMAIN",
+    projectId: "YOUR_PROJECT_ID",
+    storageBucket: "YOUR_STORAGE_BUCKET",
+    messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+    appId: "YOUR_APP_ID",
+    measurementId: "YOUR_MEASUREMENT_ID"
 };
 
 const app = initializeApp(firebaseConfig);
